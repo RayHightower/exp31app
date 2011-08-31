@@ -1,0 +1,5 @@
+Rails 3.1 Experimental
+==
+
+Rails 3.1 has been release. The sole purpose of this app is to experiment with the new features.
+
